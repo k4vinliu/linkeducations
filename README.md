@@ -1,2 +1,1 @@
-# LinkEducations.com
-LinkEducations.com
+Online help forum created using MyBB and MySql
